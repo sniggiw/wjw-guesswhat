@@ -1,3 +1,5 @@
 export default definePageConfig({
-  navigationBarTitleText: '首页'
-})
+  navigationBarTitleText: "GuessWhat",
+  navigationBarTextStyle: "white",
+  navigationBarBackgroundColor: "#1D428A",
+});
